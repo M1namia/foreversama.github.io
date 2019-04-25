@@ -1105,6 +1105,7 @@ pre .javascript .function {
 }
 .brand {
   position: relative;
+  color: #ffb6c1 !important;
   display: inline-block;
   padding: 0 40px;
   color: #fff;
@@ -1765,7 +1766,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #876fd2;
+  background: #2f9;
 }
 .feed-link,
 .chat {
