@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>forever&#39;s blog</title>
+  
+  <subtitle>New Born</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-05-12T09:22:20.666Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>forever</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>happy-birthday-Minecraft!</title>
+    <link href="http://yoursite.com/2019/05/12/happy-birthday-Minecraft/"/>
+    <id>http://yoursite.com/2019/05/12/happy-birthday-Minecraft/</id>
+    <published>2019-05-12T08:57:17.000Z</published>
+    <updated>2019-05-12T09:22:20.666Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>How time flies! Minecraft is ten years old now.<br>​<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">Ten years of creating, exploring and surviving. </span><br><span class="line">Ten years of mobs, mods and magnificent creations. </span><br><span class="line">Ten years of being consistently amazed by what you’ve built with our game. </span><br><span class="line">Ten years of you digging straight down despite our warnings. </span><br><span class="line">Ten years of being endlessly excited to see what you come up with next.</span><br><span class="line">*From minecraft.net*</span><br><span class="line">​</span><br></pre></td></tr></table></figure></p><p>I just looked back on the time I spent on this game and felt really , you know , sad cuz this game is not really popular these days. I am also really happy that with the support of Microsoft , this game survives this long after players quiting . Lots of players has quited for the develop after version 1.9 , so have I.<br>Anyway , Happy birthday Minecraft . I will miss the memory in the game.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>New Born</title>
+    <link href="http://yoursite.com/2019/04/23/New-Born/"/>
+    <id>http://yoursite.com/2019/04/23/New-Born/</id>
+    <published>2019-04-23T11:59:01.000Z</published>
+    <updated>2019-04-23T11:59:43.249Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Restarted my blog on the github.io page!<br>Glad to restart my blog project without any trouble<br>Hope I can have enough time to manage it.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
